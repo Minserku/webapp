@@ -1,0 +1,55 @@
+.menu{
+  background-color: #D8D0B7;
+  z-index:1;
+  position:fixed;
+  width: 100%;
+}
+.menu ul{ 
+  display:inline-flex;
+  margin: 15px 0 15px 0;
+}
+
+.menu li{
+  display:inline-flex;
+  margin: 0 20px;
+}
+.menu li a{
+  font-family: 'Sriracha', cursive;
+  text-decoration: none;
+  color: #1B1F3A;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: border;
+}
+.menu li a:hover{
+  color: white ;
+}
+
+.signup-btn{
+  top:15px;
+  right:60px;
+  position:absolute;
+  text-decoration: none;
+}
+.signup-btn a{
+  font-family: 'Sriracha', cursive;
+  font-size: 25px;
+  display: block;
+  padding: 0 13px;
+  color:#D8D0B7;
+  background-color: #1B1F3A;
+  border: 4px solid transparent;
+  border-radius: 20px;
+}
+.menu li span:hover{
+  background-color : #D8D0B7;
+  color: #1B1F3A;
+  border: 4px solid transparent;
+  border-color: #1B1F3A;
+  border-radius: 20px;
+}
+
+.logo img{
+  height: 50px;
+  margin: 0 48px;
+}
