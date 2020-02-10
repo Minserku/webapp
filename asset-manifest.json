@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webapp/static/css/main.0ad1a71d.chunk.css",
+    "main.js": "/webapp/static/js/main.9c3fdbae.chunk.js",
+    "main.js.map": "/webapp/static/js/main.9c3fdbae.chunk.js.map",
+    "runtime-main.js": "/webapp/static/js/runtime-main.344f6ea8.js",
+    "runtime-main.js.map": "/webapp/static/js/runtime-main.344f6ea8.js.map",
+    "static/js/2.f35bd835.chunk.js": "/webapp/static/js/2.f35bd835.chunk.js",
+    "static/js/2.f35bd835.chunk.js.map": "/webapp/static/js/2.f35bd835.chunk.js.map",
+    "index.html": "/webapp/index.html",
+    "precache-manifest.f9b0845a7baa2e1b187f79e457c59053.js": "/webapp/precache-manifest.f9b0845a7baa2e1b187f79e457c59053.js",
+    "service-worker.js": "/webapp/service-worker.js",
+    "static/css/main.0ad1a71d.chunk.css.map": "/webapp/static/css/main.0ad1a71d.chunk.css.map",
+    "static/js/2.f35bd835.chunk.js.LICENSE.txt": "/webapp/static/js/2.f35bd835.chunk.js.LICENSE.txt",
+    "static/media/Aeye.png": "/webapp/static/media/Aeye.43b7af8d.png",
+    "static/media/App.css": "/webapp/static/media/Cowboy.c85a28cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.344f6ea8.js",
+    "static/js/2.f35bd835.chunk.js",
+    "static/css/main.0ad1a71d.chunk.css",
+    "static/js/main.9c3fdbae.chunk.js"
+  ]
+}
